@@ -17,7 +17,7 @@ npm run dev
 
 サーバーサイド
 
-```
+```bash
 cd api_laravel_php_hello-world/
 php artisan serve --port 6060
 ```
